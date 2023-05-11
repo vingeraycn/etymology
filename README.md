@@ -35,7 +35,7 @@ This is a Discord bot based on ChatGPT that helps you understand the evolution o
 pip3 install -r requirements.txt
 ```
 
-4. Edit `etymology.py`, and replace variables called `discord_token` and `openai.api_key` with your own token
+4. Edit `etymology.py`, and replace variables called `discord_token` and `openai.api_key` with your own token at line 6, line 7
    > FAQ
    >
    > Q: Don't have discord bot token?
