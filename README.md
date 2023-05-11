@@ -21,7 +21,7 @@ This is a Discord bot based on ChatGPT that helps you understand the evolution o
       喜欢请 Star ⭐️ 一下，非常感谢
       <br />
       It's really appreciate your Star ⭐️
-    </br>
+    </b>
   </small>
 </center>
 
