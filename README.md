@@ -8,14 +8,9 @@ This is a Discord bot based on ChatGPT that helps you understand the evolution o
 
 ## 示例 | Examples
 
-<div style="display: grid; grid-template-columns: auto auto; gap: 10px;">
-  <img src="./examples/example_1.png" />
-  <img src="./examples/example_2.png" />
-  <img src="./examples/example_3.png" />
-  <img src="./examples/example_4.png" />
-</div>
+<img src="./examples/example_3.png"  />
 
-<center style="text-align: center;">
+<p align="center">
   <small>
     <b>
       喜欢请 Star ⭐️ 一下，非常感谢
@@ -23,7 +18,7 @@ This is a Discord bot based on ChatGPT that helps you understand the evolution o
       It's really appreciate your Star ⭐️
     </b>
   </small>
-</center>
+</p>
 
 ## 如何使用 | How to use
 
